@@ -14,4 +14,10 @@ pip install mpsprep
 
 # Usage
 
-Please see the [example.ipynb](docs/example.ipynb) notebook for some examples.
+The documentation is available on [Read the Docs](https://mps-state-preparation.readthedocs.io/en/latest/).
+
+The [example.ipynb](docs/example.ipynb) notebook has some examples.
+
+# Citing
+
+If you use this algorithm and/ or code in any way, please cite our paper [Phys. Rev. Applied 18, 024013](https://doi.org/10.1103/PhysRevApplied.18.024013).
