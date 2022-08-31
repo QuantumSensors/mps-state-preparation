@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+__pycache__
+.tox
+dist
+.pytest_cache
+.coverage
+coverage.xml
+report.xml
+*.egg-info/
+_autosummary
+_build
